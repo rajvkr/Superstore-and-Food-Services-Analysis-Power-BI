@@ -1,4 +1,4 @@
-# 🛒 Superstore and Food Services Analysis : A Power BI Report
+# 🛒 Superstore & Food Services Analysis : A Power BI Report
 
 An interactive **Power BI dashboard** that provides deep insights into **superstore operations** and **food service trends**, highlighting purchasing habits, customer demographics, sustainability preferences, and satisfaction levels.
 
