@@ -52,7 +52,9 @@ It enables stakeholders to explore performance by **product lines, regions, and 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/Menu_.png)
+![Dashboard Preview](Images/Menu_.PNG)
+![Dashboard Preview](Images/SuperStore.PNG)
+![Dashboard Preview](Images/Demographic.PNG)
 
 ---
 
