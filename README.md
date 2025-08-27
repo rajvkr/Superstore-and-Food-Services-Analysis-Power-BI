@@ -52,16 +52,7 @@ It enables stakeholders to explore performance by **product lines, regions, and 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](9eac5796-3f41-4453-b640-ec9354efb55d.png)
-
----
-
-## 📌 How to Use
-
-1. Open the `.pbix` file in **Power BI Desktop** or view it on **Power BI Service**.  
-2. Use the navigation buttons to switch between sections.  
-3. Apply filters (time, region, category) for customized insights.  
-4. For on-prem ERP sources, ensure the **On-Premises Data Gateway** is configured for scheduled refreshes.
+![Dashboard Preview](Images/Menu_.png)
 
 ---
 
